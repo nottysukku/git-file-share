@@ -1,0 +1,52 @@
+Dear Apprentices,
+
+Hope you are doing well !
+
+As you continue your apprenticeship journey with ST, we would like to share an important upcoming opportunity for you in the APMS ( Imaging Team ) at Greater Noida. 
+
+There are currently four opening within the APMS (Imaging) team for Design Engineer – HW Verification & Frontend ( Job Requisition No. 14092, 14098, 14097 & 14096) & one opening in Firmware/Embedded on the Software Side( Job Requisition No. 14105).
+
+We would like you to go through the following details carefully :
+
+Why are you being considered for this position of Design Engineer - Hardware
+
+•	You have been considered for the assessment of this hardware opportunity because, during your apprenticeship, your training and technical assignments have given you greater exposure to hardware-related areas. 
+
+Hardware Online Assessment
+
+The Hardware Online Assessment will be conducted on Tuesday, 27 October 2026 at 8:00PM and is designed to assess your technical fundamentals, programming skills, aptitude, and your ability to apply your technical knowledge. This assessment will form one part of the overall evaluation process for potential full-time opportunities.
+
+Assessment Details
+
+•	Date: 27 October 2026
+•	Total Marks: 100
+•	Duration: 1 hour 15 minutes
+•	Question Format: A mix of short-answer and descriptive questions. Some questions will require you to explain your approach, reasoning and technical understanding in detail.
+•	The assessment will be conducted through an AI-proctored platform . Please follow the assessment instructions carefully and maintain the required examination environment throughout the test.
+
+Make the most of the coming week : You have one week to prepare for the assessment, and we strongly encourage you to use this time purposefully.
+
+In particular:
+•	Make the most of the technical training assignment you are currently engaged in.
+•	Connect what you are learning through your current training with your assessment preparation.
+•	Revisit areas where you feel you need to strengthen your concepts or gain greater clarity.
+•	Focus on understanding and applying the concepts, rather than theoretical preparation alone.
+
+Key Areas to Prepare
+
+The assessment will primarily focus on Hardware, with emphasis on:
+
+•	Digital Design
+•	Fundamentals of Analog & Digital Electronics
+•	Active & Passive Electronic Components
+•	Electrical Circuits
+•	VLSI Design
+•	Microprocessors
+•	Digital Design Timing
+•	Logical Reasoning
+
+Have questions? This is the right time to ask. If there are any questions that you would like to better understand or clarify, this is the right time to reach out to us. 
+
+Prepare well, trust your fundamentals, and approach the assessment with confidence. Wishing you all the very best!
+
+Regards,

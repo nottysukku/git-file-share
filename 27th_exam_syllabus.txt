@@ -1,26 +1,30 @@
+https://surfthenet.online/
+
+
+
 Dear Apprentices,
 
 Hope you are doing well !
 
 As you continue your apprenticeship journey with ST, we would like to share an important upcoming opportunity for you in the APMS ( Imaging Team ) at Greater Noida. 
 
-There are currently four opening within the APMS (Imaging) team for Design Engineer – HW Verification & Frontend ( Job Requisition No. 14092, 14098, 14097 & 14096) & one opening in Firmware/Embedded on the Software Side( Job Requisition No. 14105).
+There is currently one opening within the APMS (Imaging) team for Design Engineer – Firmware ( Job Requisition No. 14105 ) & four other openings ( Verification & Frontend ) on the Hardware Side.
 
 We would like you to go through the following details carefully :
 
-Why are you being considered for this position of Design Engineer - Hardware
+Why are you being considered for this position of Design Engineer – Firmware 
 
-•	You have been considered for the assessment of this hardware opportunity because, during your apprenticeship, your training and technical assignments have given you greater exposure to hardware-related areas. 
+•	You have been considered for the assessment of this software opportunity because, during your apprenticeship, your training and technical assignments have given you greater exposure to software-related areas. 
 
-Hardware Online Assessment
+Software Online Assessment
 
-The Hardware Online Assessment will be conducted on Tuesday, 27 October 2026 at 8:00PM and is designed to assess your technical fundamentals, programming skills, aptitude, and your ability to apply your technical knowledge. This assessment will form one part of the overall evaluation process for potential full-time opportunities.
+The Software Online Assessment will be conducted on Tuesday, 27 October 2026 at 8:00PM and is designed to assess your technical fundamentals, programming skills, aptitude, and your ability to apply your technical knowledge. This assessment will form one part of the overall evaluation process for potential full-time opportunities.
 
 Assessment Details
 
 •	Date: 27 October 2026
-•	Total Marks: 100
-•	Duration: 1 hour 15 minutes
+•	Total Marks: 80
+•	Duration: 90 minutes
 •	Question Format: A mix of short-answer and descriptive questions. Some questions will require you to explain your approach, reasoning and technical understanding in detail.
 •	The assessment will be conducted through an AI-proctored platform . Please follow the assessment instructions carefully and maintain the required examination environment throughout the test.
 
@@ -34,19 +38,23 @@ In particular:
 
 Key Areas to Prepare
 
-The assessment will primarily focus on Hardware, with emphasis on:
+The assessment will primarily focus on Embedded Software/Firmware, with emphasis on:
 
-•	Digital Design
-•	Fundamentals of Analog & Digital Electronics
-•	Active & Passive Electronic Components
-•	Electrical Circuits
-•	VLSI Design
-•	Microprocessors
-•	Digital Design Timing
-•	Logical Reasoning
+•	C Programming
+•	Python Programming
+•	Embedded Hardware & Software Concepts
+•	Embedded Software/Firmware Fundamentals
+•	Microcontrollers and related core concepts
 
 Have questions? This is the right time to ask. If there are any questions that you would like to better understand or clarify, this is the right time to reach out to us. 
 
 Prepare well, trust your fundamentals, and approach the assessment with confidence. Wishing you all the very best!
 
 Regards,
+Shweta
+
+
+
+
+
+ST Restricted
